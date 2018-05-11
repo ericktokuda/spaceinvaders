@@ -1,4 +1,4 @@
-# (Imitations of) Space Invaders
+# (Imitation of) Space Invaders
 Game inspired in the classic Atari game Space Invaders
 
 ## Requirements
