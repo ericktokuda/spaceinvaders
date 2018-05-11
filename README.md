@@ -1,5 +1,5 @@
-# spaceinvaders
-Game inspired in space invaders
+# (Imitations of) Space Invaders
+Game inspired in the classic Atari game Space Invaders
 
 ## Requirements
  * GCC
@@ -24,4 +24,4 @@ gcc src/main.c -lGL -lGLU  -lglut -lm -o si
 ![Gameplay](https://raw.githubusercontent.com/tokudaek/spaceinvaders/master/img/si_video.gif)
 
 ## Troubleshooting
-If your get a `cannot find lGL` error, try to locate the libGL.so file and check if its path is included in the LD\_LIBRARY\_PATH.
+ * If your get a `cannot find lGL` error, try to locate the libGL.so file and check if its path is included in the LD\_LIBRARY\_PATH.
